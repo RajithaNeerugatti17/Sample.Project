@@ -1,0 +1,7 @@
+﻿{
+  "Browser": "chrome",
+  "Environment": "T1",
+  "UserName_T1": "standard_user",
+  "Password_T1": "secret_sauce"
+
+}
