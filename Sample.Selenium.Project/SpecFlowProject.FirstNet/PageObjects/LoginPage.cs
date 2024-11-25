@@ -3,6 +3,7 @@ using AventStack.ExtentReports.Utils;
 using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Support.UI;
+using Sample_Selenium_Project.Utility;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -27,6 +28,33 @@ namespace SpecFlowProject.FirstNet.PageObjects
         IWebElement _ElementInDashboard => _driver.FindElement(By.XPath("//*[@id=\"header_container\"]/div[2]/span"));
 
 
+        public void URL()
+        {
+            if (Hooks1.Config.Environment == "T1")
+            {
+                _driver.Navigate().GoToUrl("https://www.saucedemo.com/ ");
+            }
+
+            else if (Hooks1.Config.Environment == "T2")
+            {
+                _driver.Navigate().GoToUrl("");
+            }
+        }
+        public void CredentialsBasedOnEnvt()
+        {
+            if (Hooks1.Config.Environment == "T1")
+            {
+                _userName.input(Hooks1.Config.UserName_T1);
+                _Password.input(Hooks1.Config.Password_T1);
+            }
+
+            else if (Hooks1.Config.Environment == "T2")
+            {
+                _userName.input(Hooks1.Config.UserName_T2);
+                _Password.input(Hooks1.Config.Password_T2);
+            }
+            _loginButton.clickElement();
+        }
 
         public void LoginWithCredentials(string username, string password)
         {
@@ -54,7 +82,7 @@ namespace SpecFlowProject.FirstNet.PageObjects
                 Console.WriteLine("The text is present in the dashboard so dashboard has loaded successfully");
             }
         }
-           
+         
 
     }
 }

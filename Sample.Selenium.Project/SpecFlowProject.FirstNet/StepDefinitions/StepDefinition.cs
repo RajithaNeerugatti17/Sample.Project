@@ -16,18 +16,16 @@ namespace SpecFlowProject.FirstNet.StepDefinitions
         [Given(@"I Launch saucedemo url")]
         public void GivenILaunchsaucedemoUrl()
         {
-            if (Hooks1.Config.Environment == "T1")
-            {
-                _driver.Navigate().GoToUrl("https://www.saucedemo.com/ ");
-            }
-
-            else if (Hooks1.Config.Environment == "T2")
-            {
-                _driver.Navigate().GoToUrl("");
-            }
-
+            LoginPage loginURL = new LoginPage(_driver);
+            loginURL.URL();
         }
-   
+        [When(@"I login to saucedemo using credentials")]
+        public void WhenILoginToSaucedemoUsingCredentials()
+        {
+            LoginPage loginWithCred = new LoginPage(_driver);
+            loginWithCred.CredentialsBasedOnEnvt();
+        }
+
 
         [When(@"I login to saucedemo using username '([^']*)'and password '([^']*)'")]
         public void WhenILoginTosaucedemoUsingUsernameAndPassword(string username, string password)

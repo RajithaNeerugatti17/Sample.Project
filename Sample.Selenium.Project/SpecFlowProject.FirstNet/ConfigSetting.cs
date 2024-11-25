@@ -12,5 +12,7 @@ namespace Sample_Selenium_Project.Utility
         public string Environment { get; set; }
         public string UserName_T1 { get; set; }
         public string Password_T1 { get; set; }
+        public string UserName_T2 { get; set; }
+        public string Password_T2 { get; set; }
     }
 }

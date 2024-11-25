@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rajitha.Neerugatti\\source\\repos\\SpecFlowProject.FirstNet\\SpecFlowProject.FirstNet\\SpecFlowProject.Sample.csproj": {}
+    "C:\\Sample.Selenium.Project\\Sample.Selenium.Project\\SpecFlowProject.FirstNet\\SpecFlowProject.Sample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rajitha.Neerugatti\\source\\repos\\SpecFlowProject.FirstNet\\SpecFlowProject.FirstNet\\SpecFlowProject.Sample.csproj": {
+    "C:\\Sample.Selenium.Project\\Sample.Selenium.Project\\SpecFlowProject.FirstNet\\SpecFlowProject.Sample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rajitha.Neerugatti\\source\\repos\\SpecFlowProject.FirstNet\\SpecFlowProject.FirstNet\\SpecFlowProject.Sample.csproj",
+        "projectUniqueName": "C:\\Sample.Selenium.Project\\Sample.Selenium.Project\\SpecFlowProject.FirstNet\\SpecFlowProject.Sample.csproj",
         "projectName": "SpecFlowProject.Sample",
-        "projectPath": "C:\\Users\\Rajitha.Neerugatti\\source\\repos\\SpecFlowProject.FirstNet\\SpecFlowProject.FirstNet\\SpecFlowProject.Sample.csproj",
+        "projectPath": "C:\\Sample.Selenium.Project\\Sample.Selenium.Project\\SpecFlowProject.FirstNet\\SpecFlowProject.Sample.csproj",
         "packagesPath": "C:\\Users\\Rajitha.Neerugatti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rajitha.Neerugatti\\source\\repos\\SpecFlowProject.FirstNet\\SpecFlowProject.FirstNet\\obj\\",
+        "outputPath": "C:\\Sample.Selenium.Project\\Sample.Selenium.Project\\SpecFlowProject.FirstNet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rajitha.Neerugatti\\AppData\\Roaming\\NuGet\\NuGet.Config",

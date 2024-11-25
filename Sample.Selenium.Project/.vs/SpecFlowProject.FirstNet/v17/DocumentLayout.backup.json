@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sample.Selenium.Project\\Sample.Selenium.Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81F8ED5F-3533-4954-AFF9-E29EA5B2B557}|SpecFlowProject.FirstNet\\SpecFlowProject.Sample.csproj|c:\\sample.selenium.project\\sample.selenium.project\\specflowproject.firstnet\\stepdefinitions\\stepdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F8ED5F-3533-4954-AFF9-E29EA5B2B557}|SpecFlowProject.FirstNet\\SpecFlowProject.Sample.csproj|solutionrelative:specflowproject.firstnet\\stepdefinitions\\stepdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F8ED5F-3533-4954-AFF9-E29EA5B2B557}|SpecFlowProject.FirstNet\\SpecFlowProject.Sample.csproj|c:\\sample.selenium.project\\sample.selenium.project\\specflowproject.firstnet\\pageobjects\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F8ED5F-3533-4954-AFF9-E29EA5B2B557}|SpecFlowProject.FirstNet\\SpecFlowProject.Sample.csproj|solutionrelative:specflowproject.firstnet\\pageobjects\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F8ED5F-3533-4954-AFF9-E29EA5B2B557}|SpecFlowProject.FirstNet\\SpecFlowProject.Sample.csproj|c:\\sample.selenium.project\\sample.selenium.project\\specflowproject.firstnet\\features\\sample.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81F8ED5F-3533-4954-AFF9-E29EA5B2B557}|SpecFlowProject.FirstNet\\SpecFlowProject.Sample.csproj|solutionrelative:specflowproject.firstnet\\features\\sample.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F8ED5F-3533-4954-AFF9-E29EA5B2B557}|SpecFlowProject.FirstNet\\SpecFlowProject.Sample.csproj|c:\\sample.selenium.project\\sample.selenium.project\\specflowproject.firstnet\\configsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F8ED5F-3533-4954-AFF9-E29EA5B2B557}|SpecFlowProject.FirstNet\\SpecFlowProject.Sample.csproj|solutionrelative:specflowproject.firstnet\\configsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F8ED5F-3533-4954-AFF9-E29EA5B2B557}|SpecFlowProject.FirstNet\\SpecFlowProject.Sample.csproj|c:\\sample.selenium.project\\sample.selenium.project\\specflowproject.firstnet\\configuration\\configsetting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{81F8ED5F-3533-4954-AFF9-E29EA5B2B557}|SpecFlowProject.FirstNet\\SpecFlowProject.Sample.csproj|solutionrelative:specflowproject.firstnet\\configuration\\configsetting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfigSetting.cs",
+              "DocumentMoniker": "C:\\Sample.Selenium.Project\\Sample.Selenium.Project\\SpecFlowProject.FirstNet\\ConfigSetting.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject.FirstNet\\ConfigSetting.cs",
+              "ToolTip": "C:\\Sample.Selenium.Project\\Sample.Selenium.Project\\SpecFlowProject.FirstNet\\ConfigSetting.cs",
+              "RelativeToolTip": "SpecFlowProject.FirstNet\\ConfigSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:47:28.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfigSetting.json",
+              "DocumentMoniker": "C:\\Sample.Selenium.Project\\Sample.Selenium.Project\\SpecFlowProject.FirstNet\\Configuration\\ConfigSetting.json",
+              "RelativeDocumentMoniker": "SpecFlowProject.FirstNet\\Configuration\\ConfigSetting.json",
+              "ToolTip": "C:\\Sample.Selenium.Project\\Sample.Selenium.Project\\SpecFlowProject.FirstNet\\Configuration\\ConfigSetting.json",
+              "RelativeToolTip": "SpecFlowProject.FirstNet\\Configuration\\ConfigSetting.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T05:46:54.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Sample.Selenium.Project\\Sample.Selenium.Project\\SpecFlowProject.FirstNet\\PageObjects\\LoginPage.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject.FirstNet\\PageObjects\\LoginPage.cs",
+              "ToolTip": "C:\\Sample.Selenium.Project\\Sample.Selenium.Project\\SpecFlowProject.FirstNet\\PageObjects\\LoginPage.cs",
+              "RelativeToolTip": "SpecFlowProject.FirstNet\\PageObjects\\LoginPage.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:42:01.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StepDefinition.cs",
+              "DocumentMoniker": "C:\\Sample.Selenium.Project\\Sample.Selenium.Project\\SpecFlowProject.FirstNet\\StepDefinitions\\StepDefinition.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject.FirstNet\\StepDefinitions\\StepDefinition.cs",
+              "ToolTip": "C:\\Sample.Selenium.Project\\Sample.Selenium.Project\\SpecFlowProject.FirstNet\\StepDefinitions\\StepDefinition.cs",
+              "RelativeToolTip": "SpecFlowProject.FirstNet\\StepDefinitions\\StepDefinition.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:39:52.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sample.feature",
+              "DocumentMoniker": "C:\\Sample.Selenium.Project\\Sample.Selenium.Project\\SpecFlowProject.FirstNet\\Features\\Sample.feature",
+              "RelativeDocumentMoniker": "SpecFlowProject.FirstNet\\Features\\Sample.feature",
+              "ToolTip": "C:\\Sample.Selenium.Project\\Sample.Selenium.Project\\SpecFlowProject.FirstNet\\Features\\Sample.feature",
+              "RelativeToolTip": "SpecFlowProject.FirstNet\\Features\\Sample.feature",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAABaAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAATwSURBVEhLnVRbbFRVFF3n3nm002k70PdMH5QWsC8hbUJIwKaGgH2gkUj0Q39MQ2LDB2r4MjHhwy9jJNFEo8QfFA0/RhE\u002BEIoCigXRlEKBStuhD0qfczuvO3M7d\u002Ba4z7mTMqXGWFfmzsw5d\u002B\u002B19157n8OQRt\u002Bt61yP6\u002Bj3D8DkyfTu2tDoq0OWMwuuLBd2NG1n4JzLADt6dvGCjYvwVnFUFpSAMUaP9PnP4BxY1EMI6jqmxhg2s04cO/I\u002BY99fOsNPDr6D5oYStPqew1PrGwBJnhmBvFes/wkchmnAHxzG5Yfn8OuPOeje0w127NTHfMp9Aq/Uv4qSnCJo8bm0QyZWBlCYDSluplePYVPsyHV4MBOdw1vHP8P\u002Bp3ugxrzRo\u002B07a\u002BFzlyCYCFCpKXJOSoJkyoTTXoCNxQfgzqrCYtxP0tlQ5z2IfNcmaPoIEskIyEPam6klhBOLcCgK7kb78VufH8psZB4qU6URs1qyDLFSmF0\u002B2Y5iOG356V1OgVSoqh12Wx7sqpt2FeEiOQSXw65AcCuioUIAiQx\u002Bu0pkRKIvzSAQHZR7DCpVaEqJtOg9xKni6sJ9qCroRI6zXNpkcghuGVbsLe9TNJ\u002BnDfXebmyrOAyv5xnMhm/gwcJZamKApEigf/xDkmcINUUvIcteCFVxkNtymstcNKXpup5AMD4C3XiEuKkRQQFyHF5E4hOkdxRJCsBJApHJXPhPPNQuYiJwnuynJGFGHInVASh8ND4J//wPGJ45hTHKPGJM0AvhSdpLI5A8CwjHR2n278tGM6ZISR5LYWFVAJGE07aeDhydibLXUV20Hy5HKfmpNIYusiBdmUPGU5QsNJUfQoP3DWyteNMaXWpyZhHKExUROI1kJdzOCpmVRg2OUvmF7ibasxpZlr9TZmuaESzGRqSPGAaRhPgvQshC6EsRf1Y0iByNhEYN1TATvIaFyG0ZyLduNxw0kmIuivNasKHwBRrRfJLyO9yZ\u002Bhx/TZ/MkMiqgi4cKL58Lx0QU0ojm0QIGw8wNH0CM6HfqZ0mkT9LDinY1Bxq8hLZJZGXXY0CqkrASIbovXVBCg5BEzOSENxKfWUjQkYYCVPoJ23SSC/oZGvRu1TVAkKxUZnVWOAcprSfMU9TZOUp07YSpI/gWphLoKGqCUrxuhKMLExgMjSJpElnMCUeypcmkdMX5wqN6DhG504jpI/TmmE\u002BNIDp4HUsmVFQZ8lO2Fu/gkNw6YFsFHmKwa78cYUf\u002BvRtFJbHUFtnQ55boSTEVQC0\u002BzqQm\u002B0mjhSmwzO4ExpEIKZRvunhsxK3QJknKUA0msLwPRPbafq6duy1TK72X\u002BXvffkBDBYGdwboWjRQ28Dx2paXiYTTzBs4P30B/jEdwUcu6oVdcj6JWIz6oTO4mAe9H50VWyJPC5euX\u002BY3/Xdwc6QftwIX0dqWh47SDkTMMO7Hh3DmpzHkmpvQua0L98aHoYWDMJYMeeMKCPm9xWWo8VWjprQSz7ftk9yZRUq0HG7ku/e6sMW9GTdmb2N0iGNxKhfXPvklbbHa59\u002Bw4iT3XuvllRtsYLYExgw/BvqIS6vEvpYu8VoQr4lcYEWAb3q/RVkFaRlPYuC2jq1lrWhv3oMXd3WmLdaO5Yy\u002BOv01P37hC8RZCOqSB3ubW3H04Lvi1ZqzzsRyBdXl1XA7cpDLSnHkQI8g/1\u002BSrATwN1VzM2ZLYFwgAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-11-25T05:39:01.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
